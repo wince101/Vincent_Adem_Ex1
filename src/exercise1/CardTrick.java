@@ -52,6 +52,7 @@ public class CardTrick {
         System.out.println();
         
         System.out.println("My name is Vincent, a student from Sheridan College");
+	System.out.println("I am starting to learn how to use the GitHub and Netbeans!");    
         System.out.println();
         
         System.out.println("My career ambitions:");
