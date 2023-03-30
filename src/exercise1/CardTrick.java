@@ -49,16 +49,16 @@ public class CardTrick {
     private static void printInfo(){
     
         System.out.println("Congratulations, you guessed right!");
-        System.out.println();
+        System.out.println("Now I will be editing this java code");
         
         System.out.println("My name is Vincent, a student from Sheridan College");
 	System.out.println("I am starting to learn how to use the GitHub and Netbeans!");    
-        System.out.println();
+        System.out.println("It was difficult at first because it is unfamiliar, but now I am gradually learning!");
         
         System.out.println("My career ambitions:");
         System.out.println("-- To be Fullstack Developer");
         System.out.println("-- Have a semester with no violations of academic integrity!");
-	System.out.println();	
+	System.out.println("-- Strive to master my coding skills");	
 
         System.out.println("My hobbies:");
         System.out.println("-- Investing");
@@ -66,7 +66,7 @@ public class CardTrick {
         System.out.println("-- Reading/Watching TV Shows");
         System.out.println("-- Riding my motorcycle");
 
-        System.out.println();
+        System.out.println("Thank you for reading this and I hope you know who I am now!");
         
     
     }
